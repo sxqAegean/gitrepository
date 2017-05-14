@@ -4,3 +4,4 @@ yes this is test Git.stage
 we must add file to stage for every change
 then it will be commit to master.
 1111
+test checkout
